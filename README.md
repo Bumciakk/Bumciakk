@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bumciakk
-- 👀 I’m interested in Unity Particle system
+- 👀 I’m interested in C# and Python
 - 🌱 I’m currently learning Unity 
 <!---
 Bumciakk/Bumciakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
